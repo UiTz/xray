@@ -1,2 +1,3 @@
 # xray
 subscribe
+delete branch
